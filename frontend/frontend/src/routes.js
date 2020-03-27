@@ -10,8 +10,8 @@ import NewIncident from "./pages/NewIncident";
 export default function Routes() {
   return(
     <BrowserRouter>
-      <Switch>                                         // O Switch garante que apenas uma rota seja
-        <Route path="/" exact component={Logon}/>     // executada por momento
+      <Switch>                                         
+        <Route path="/" exact component={Logon}/>      
         <Route path="/register" component={Register}/>
         <Route path="/profile" component={Profile}/>
         <Route path="/incidents/new" component={NewIncident}/>
@@ -25,3 +25,6 @@ export default function Routes() {
     );
 
 }
+
+
+// O Switch garante que apenas uma rota seja executada por momento
