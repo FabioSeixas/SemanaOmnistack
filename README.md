@@ -1,4 +1,6 @@
-# Be the Hero
+<h1 align="center">
+    <img alt="BeTheHero" title="#BeTheHero" src=".github/bethehero.svg" width="250px" />
+</h1>
 
 <p align="center">
   <img src="https://img.shields.io/github/languages/count/fabioseixas/semanaomnistack?style=for-the-badge">
@@ -49,7 +51,7 @@ From your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/DanielObara/SemanaOmnistack11
+$ git clone https://github.com/FabioSeixas/SemanaOmnistack11
 
 # Go into the repository
 $ cd SemanaOmnistack11/backend
