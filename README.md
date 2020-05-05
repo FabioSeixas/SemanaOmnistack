@@ -1,14 +1,14 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/github/languages/count/DanielObara/SemanaOmnistack11?color=%2304D361">
+  <img src="https://img.shields.io/github/languages/count/DanielObara/SemanaOmnistack11?color=%2304D361?style=for-the-badge">
     
   <img src="https://img.shields.io/github/languages/top/fabioseixas/SemanaOmnistack?style=for-the-badge">
     
   <img src="https://img.shields.io/github/repo-size/fabioseixas/semanaOmnistack?style=for-the-badge">
 
   <a href="https://www.linkedin.com/in/fabioseixas/">
-    <img alt="Made by Fabio Seixas" src="https://img.shields.io/badge/made%20by-FabioSeixas-blue">
+    <img alt="Made by Fabio Seixas" src="https://img.shields.io/badge/made%20by-FabioSeixas-blue?style=for-the-badge">
   </a>
 
   <img src="https://img.shields.io/github/last-commit/fabioseixas/semanaomnistack?style=for-the-badge">
@@ -41,7 +41,7 @@ Para acessar o layout utilize a ferramenta [Figma](https://www.figma.com/file/2C
 
 ## :information_source: How To Use
 
-To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js][nodejs] + [Yarn][yarn] installed on your computer.
+To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) and [Yarn](https://yarnpkg.com/) installed on your computer.
 
 From your command line:
 
