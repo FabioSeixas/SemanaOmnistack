@@ -1,7 +1,7 @@
-
+# Be the Hero
 
 <p align="center">
-  <img src="https://img.shields.io/github/languages/count/DanielObara/SemanaOmnistack11?color=%2304D361?style=for-the-badge">
+  <img src="https://img.shields.io/github/languages/count/DanielObara/SemanaOmnistack11?color=%2304D361style=for-the-badge">
     
   <img src="https://img.shields.io/github/languages/top/fabioseixas/SemanaOmnistack?style=for-the-badge">
     
