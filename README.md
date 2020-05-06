@@ -53,10 +53,10 @@ From your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/FabioSeixas/SemanaOmnistack11
+$ git clone https://github.com/FabioSeixas/SemanaOmnistack
 
 # Go into the repository
-$ cd semanaOmnistack/backend
+$ cd SemanaOmnistack/backend
 
 # Install dependencies
 $ yarn install
