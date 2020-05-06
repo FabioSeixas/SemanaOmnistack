@@ -56,7 +56,7 @@ From your command line:
 $ git clone https://github.com/FabioSeixas/SemanaOmnistack11
 
 # Go into the repository
-$ cd SemanaOmnistack11/backend
+$ cd semanaOmnistack/backend
 
 # Install dependencies
 $ yarn install
