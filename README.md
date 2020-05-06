@@ -2,12 +2,12 @@
     <img alt="BeTheHero" title="#BeTheHero" src=".github/bethehero.svg" width="200px" />
 </h1>
 
+<br>
+
 <p align="center">
   <img src="https://img.shields.io/github/languages/count/fabioseixas/semanaomnistack?style=for-the-badge">
     
   <img src="https://img.shields.io/github/languages/top/fabioseixas/SemanaOmnistack?style=for-the-badge">
-    
-  <img src="https://img.shields.io/github/repo-size/fabioseixas/semanaOmnistack?style=for-the-badge">
 
   <a href="https://www.linkedin.com/in/fabioseixas/">
     <img alt="Made by Fabio Seixas" src="https://img.shields.io/badge/made%20by-FabioSeixas-blue?style=for-the-badge">
